@@ -1,0 +1,21 @@
+Removed 1 edges
+components=[ 3 , 4 ]
+Removed 2 edges
+components=[ 2 , 1 ]
+Removed 2 edges
+components=[ 1 , 3 ]
+Removed 1 edges
+components=[ 3 , 4 ]
+Removed 2 edges
+components=[ 2 , 1 ]
+Removed 2 edges
+components=[ 1 , 3 ]
+Removed 1 edges
+components=[ 3 , 4 ]
+stopping for 3
+Removed 2 edges
+components=[ 1 , 3 ]
+Removed 1 edges
+components=[ 3 , 4 ]
+stopping for 3
+stopping for 4
